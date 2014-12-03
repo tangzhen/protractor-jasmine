@@ -1,0 +1,16 @@
+{
+  "name": "protractor-jasmine",
+  "version": "1.0.0",
+  "description": "integrate jasmine-code 2.x with protractor",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "protractor",
+    "jasmine"
+  ],
+  "author": "TANG, Zhen",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.1.2"
+  }
+}
